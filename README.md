@@ -15,7 +15,7 @@ Projects included:
 * Explainability of Deep Learning Frameworks
 
 ### :speaker: I'm interested in...
-<p align="center">
+<p align="left">
 <a href="https://mlnotebook.github.io">
     <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/ai.svg" alt="AI" style="vertical-align:top; margin:4px">
 </a>  
@@ -28,7 +28,7 @@ Projects included:
   
 
 ### :pushpin: You can also find me...
-<p align="center">
+<p align="left">
 <a href="https://twitter.com/robdrobinson">
     <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 </a>  
@@ -48,7 +48,7 @@ Projects included:
 
 ### :construction: I build with...
 
-<p align="center">
+<p align="left">
 <a href="https://www.python.org/">
     <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/python.svg" alt="Python" style="vertical-align:top; margin:4px">
 </a>
@@ -80,7 +80,7 @@ Projects included:
 
 ### :wrench: I use...
 
-<p align="center">
+<p align="left">
 <a href="https://www.gnu.org/software/bash/">
     <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/bash.svg" alt="Bash" style="vertical-align:top; margin:4px">
 </a>
