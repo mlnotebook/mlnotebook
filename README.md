@@ -1,5 +1,7 @@
 ### :namebadge: I am...
-Rob Robinson Phd MRes MPhys <img src="./images/badges/hehim.svg" alt="HeHimPronouns" style="vertical-align:top; margin:4px">
+Rob Robinson Phd MRes MPhys
+
+<img src="./images/badges/hehim.svg" alt="HeHimPronouns" style="vertical-align:top; margin:4px">
 
 Recent PhD Graduate from the Biomedical Image Analysis Group ([BioMedIA](https://biomedia.doc.ic.ac.uk/)) at 
 [Imperial College London](https://www.imperial.ac.uk) specialising in computer vision and machine learning 
@@ -13,31 +15,33 @@ Projects included:
 ### :speaker: I'm interested in...
 <p align="center">
   <a href="https://mlnotebook.github.io">
-    <img src="./images/badges/ai.svg" alt="AI" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/ai.svg" alt="AI" style="vertical-align:top; margin:4px">
   </a>  
 
-  <img src="./images/badges/datascience.svg" alt="DataScience" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/ethicalai.svg" alt="AI" style="vertical-align:top; margin:4px">
   
-  <img src="./images/badges/dataengineering.svg" alt="DataEngineering" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/datascience.svg" alt="DataScience" style="vertical-align:top; margin:4px">
+  
+  <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/dataengineering.svg" alt="DataEngineering" style="vertical-align:top; margin:4px">
 </p>
   
 
 ### :pushpin: You can also find me...
 <p align="center">
   <a href="https://twitter.com/robdrobinson">
-    <img src="./images/badges/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>  
 
   <a href="https://www.linkedin.com/in/robdrobinson/">
-    <img src="./images/badges/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://www.instagram.com/robdrobinson/">
-    <img src="./images/badges/instagram.svg" alt="GoogleScholar" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/instagram.svg" alt="GoogleScholar" style="vertical-align:top; margin:4px">
   </a>
   
   <a href="https://scholar.google.com/citations?hl=en&user=D0kl6ysAAAAJ">
-    <img src="./images/badges/scholar.svg" alt="GoogleScholar" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/scholar.svg" alt="GoogleScholar" style="vertical-align:top; margin:4px">
   </a>
 
 </p>
@@ -46,31 +50,31 @@ Projects included:
 
 <p align="center">
   <a href="https://www.python.org/">
-    <img src="./images/badges/python.svg" alt="Python" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/python.svg" alt="Python" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://www.tensorflow.org/">
-    <img src="./images/badges/tensorflow.svg" alt="TensorFlow" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/tensorflow.svg" alt="TensorFlow" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://www.pytorch.org/">
-    <img src="./images/badges/pytorch.svg" alt="PyTorch" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/pytorch.svg" alt="PyTorch" style="vertical-align:top; margin:4px">
   </a>
      
   <a href="https://www.reactjs.org/">
-    <img src="./images/badges/react.svg" alt="React" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/react.svg" alt="React" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://whatwg.org/">
-    <img src="./images/badges/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://www.w3.org/Style/CSS/">
-    <img src="./images/badges/css.svg" alt="CSS" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/css.svg" alt="CSS" style="vertical-align:top; margin:4px">
   </a>
   
   <a href="https://www.javascript.com/">
-    <img src="./images/badges/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
   </a>
 
 </p>
@@ -79,19 +83,19 @@ Projects included:
 
 <p align="center">
   <a href="https://www.gnu.org/software/bash/">
-    <img src="./images/badges/bash.svg" alt="Bash" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/bash.svg" alt="Bash" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://www.nginx.com/">
-    <img src="./images/badges/nginx.svg" alt="Nginx" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/nginx.svg" alt="Nginx" style="vertical-align:top; margin:4px">
   </a>
   
   <a href="https://www.gunicorn.org/">
-    <img src="./images/badges/gunicorn.svg" alt="GUnicorn" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/gunicorn.svg" alt="GUnicorn" style="vertical-align:top; margin:4px">
   </a>
   
   <a href="https://www.raspberrypi.org/">
-    <img src="./images/badges/raspberrypi.svg" alt="RaspberryPi" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/raspberrypi.svg" alt="RaspberryPi" style="vertical-align:top; margin:4px">
   </a>
   
 </p>
