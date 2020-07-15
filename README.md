@@ -1,5 +1,4 @@
-### :name_badge: I am...
-Rob Robinson Phd MRes MPhys
+### :name_badge: Rob Robinson Phd MRes MPhys
 
 <p align="left">
     <img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/hehim.svg" alt="HeHimPronouns" style="vertical-align:top; margin:4px">
