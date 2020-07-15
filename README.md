@@ -1,7 +1,8 @@
-### :namebadge: I am...
+### :name_badge: I am...
 Rob Robinson Phd MRes MPhys
 
-<img src="./images/badges/hehim.svg" alt="HeHimPronouns" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/hehim.svg" alt="HeHimPronouns" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/mlnotebook/mlnotebook/master/images/badges/london.svg" alt="LocationLondon" style="vertical-align:top; margin:4px">
 
 Recent PhD Graduate from the Biomedical Image Analysis Group ([BioMedIA](https://biomedia.doc.ic.ac.uk/)) at 
 [Imperial College London](https://www.imperial.ac.uk) specialising in computer vision and machine learning 
