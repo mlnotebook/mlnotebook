@@ -14,6 +14,16 @@ Projects included:
 * Algorithmic Bias Mitigation via Domain Adaptation ([repo](https://github.com/mlnotebook/domain_adapation_istn))
 * Explainability of Deep Learning Frameworks
 
+Udacity Data Engineering Nanodegree Graduate
+
+Projects included:
+* Data Modelling with PostgreSQL ([repo](https://github.com/mlnotebook/data_modeling_with_postgresql))
+* NoSQL Databases with Apache Cassandra ([repo](https://github.com/mlnotebook/data_modeling_with_cassandra))
+* Data Warehouses with Amazon Redshift ([repo](https://github.com/mlnotebook/data_warehouse_amazon_redshift))
+* Data Lakes with Apache Spark ([repo](https://github.com/mlnotebook/data_lakes_with_spark)) 
+* Data Pipelines with Airflow ([repo]())
+* Capstone Project ([repo](https://github.com/mlnotebook/dend_capstone_project))
+
 ### :speaker: I'm interested in...
 <p align="left">
 <a href="https://mlnotebook.github.io">
